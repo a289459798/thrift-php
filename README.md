@@ -2,7 +2,7 @@ thrift-php
 ==========
 #QQ群：62893237
 
-thrift php端client的简单封装
+php 端的多进程thrift rpc，正在开发中... 
 
 ##一、安装thrift
 待更新
