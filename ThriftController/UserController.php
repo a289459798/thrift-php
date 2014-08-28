@@ -8,7 +8,7 @@
 namespace ThriftRpc\ThriftController;
 require_once PHPTHRIFT . '/ThriftService/User/UserService.php';
 require_once PHPTHRIFT . '/ThriftService/User/Types.php';
-use ThriftRpc\Cron\Thrift\ThriftClient;
+use ThriftRpc\Cron\ThriftForPhp\ThriftClient;
 class UserController {
 
 	private $client = null;
