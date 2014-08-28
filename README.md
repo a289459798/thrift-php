@@ -40,7 +40,7 @@ service UserService {
 
 ```shell
 thrift -r -gen php User.thrift
-
+```
 
 ##四、使用thrift-php
 
